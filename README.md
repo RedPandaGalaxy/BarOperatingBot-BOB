@@ -9,6 +9,7 @@ The concept was to create a robot that would assist bartenders and waiters with 
 More can be found in Extras folder in Report file.
 
 # Solution
-The solution incorporates the knowledge gained in all of the subjects – electronics, mechanics and embedded software
+The solution incorporates the knowledge gained in all of the subjects – electronics, mechanics and embedded software.
 The C language was used to program the robot
+Also note that used libraries used were NOT developed by the team.
 
