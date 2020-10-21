@@ -7,7 +7,8 @@ The semester project goal was to create an autonomous vehicle – a robot that c
 # Concept
 The concept was to create a robot that would assist bartenders and waiters with serving drinks. BOB (Bar Operating Bot) shall be able to move around on its own with avoiding any collisions. Moreover, in further stages, it shall use GPS to locate nearby tables and move to their location
 More can be found in Extras folder in Report file.
-#Solution
+
+# Solution
 The solution incorporates the knowledge gained in all of the subjects – electronics, mechanics and embedded software
 The C language was used to program the robot
 
